@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Micheal
 - 👀 I’m interested in machine learning/ AI
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Data modelling 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me okojiemicheal070@gmail.com
 
 <!---
 m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
